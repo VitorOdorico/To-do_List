@@ -108,3 +108,8 @@ body {
     font-style: italic;
     font-weight: normal;
 }
+
+footer{
+   text-align: center;
+   font-size: 15px;
+}
